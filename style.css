@@ -148,6 +148,37 @@ section {
     line-height: 28px;
     color: #707070;
 }
+.facts-area {
+    width: 1200px;
+    margin: 0 auto;
+}
+.fact-item {
+    width: 300px;
+    text-align: center;
+}
+.fact-item {
+    width: 300px;
+    text-align: center;
+    margin-right: 20px;
+    padding: 60px 0;
+    border-radius: 5px;
+    box-shadow: 1px 1px 8px #dee;
+}
+.fact-item:last-child {
+    margin-right: 0;
+}
+.fact-item img {
+    border-bottom: 3px solid #ff5959;
+    padding-bottom: 20px;
+    border-radius: 1px;
+}
+.fact-item h3 {
+    font-size: 40px;
+    margin-top: 20px;
+}
+.fact-item p {
+    color: #5b7d9a;
+}
 .subscribe-form {
     width: 900px;
     margin: 0 auto;
