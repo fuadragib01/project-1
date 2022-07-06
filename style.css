@@ -234,3 +234,7 @@ section {
 .footer-area p {
     color: #999;
 }
+.footer-area a {
+    text-decoration: none;
+    color: #fff;
+}
