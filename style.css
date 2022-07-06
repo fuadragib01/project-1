@@ -163,10 +163,18 @@ section {
 .subscribe-form input[type="email"] {
     width: 235px;
     background-color: #d9d9d9;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-left: -110px;
 }
 .subscribe-form input[type="submit"] {
     background-color: #ff5959;
     color: #fff;
+    cursor: pointer;
+    padding: 15px 35px;
+    position: absolute;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
 }
 footer {
     text-align: center;
